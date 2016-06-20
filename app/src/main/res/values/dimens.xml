@@ -12,7 +12,7 @@
     <dime name="size_large_72">72dp</dime>
 
     <!--Spaces-->
-    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_small_08">8dp</dimen>
     <dimen name="spacing_normal_16">16dp</dimen>
     <dimen name="spacing_madial_24">24dp</dimen>
     <dimen name="spacing_medium_32">32dp</dimen>
