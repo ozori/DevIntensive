@@ -33,5 +33,7 @@
     <dimen name="button_height_normal_40">40dp</dimen>
     <dimen name="button_height_short_20">20dp</dimen>
     <dimen name="line_size">1dp</dimen>
+    <dimen name="profile_image_size">256dp</dimen>
+    <dimen name="fab_right_space">8dp</dimen>
 
 </resources>
